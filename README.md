@@ -1,1 +1,1 @@
-# frontend
+Frontend interface for MercuryOS
